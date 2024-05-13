@@ -1,0 +1,6 @@
+1. Entrada: Receber o valor de "n".
+2. Processamento:
+    Calcular o primeiro dígito ("digito1") como "n - 1".
+    Calcular o segundo dígito ("digito2") como "10 - n".
+    Multiplicar o primeiro dígito por 10 e adicionar o segundo dígito.
+3. Saída: Imprimir o resultado da multiplicação de 9 por "n".
